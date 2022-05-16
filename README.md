@@ -1,4 +1,6 @@
 # NowcastingKilauea
+[![DOI](https://zenodo.org/badge/490773111.svg)](https://zenodo.org/badge/latestdoi/490773111)
+
 This repository contains the python code and data files for the submitted manuscript Fildes et al. (2022) on nowcasting caldera collapse events during the 2018 Kīlauea volcano eruption.
 
 KilaueaEQs.py is a python file written in Spyder (Spyder-IDE.org ) 4.0.1 with Python 3.7. This file contains the functions used to carry out the data analysis in the paper. Within KilaeuaEQs.py, choose which txt file of data to read in based on the subcase you want to run. 
